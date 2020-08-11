@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Xiaoqi's Page
 
-You can use the [editor on GitHub](https://github.com/ahalxq/ahalxq.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a research assistant working in the Genomics and Bioinformatics Hub just graduated from UW-Madison double majored in Applied Mathematics, Engineering, and Physics(AMEP) and Computer Sciences this summer. I am actively seeking PhD positions. Please feel free to email me if you are interested. 
 
 ### Markdown
 
