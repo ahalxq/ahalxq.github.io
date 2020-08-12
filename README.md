@@ -7,14 +7,15 @@ I am a research assistant working in the Genomics and Bioinformatics Hub just gr
 I am actively seeking PhD positions. Please feel free to email me if you are interested. 
 
 ### Education
-#### 2017-2020 University of Wisconsin-Madison
-> Applied Mathematics, Engineering, and Physics Program <br>
-> Computer Sciences (double major)
-#### 2011-2017 Nanjing Foreign Language School
+#### 2017-2020   University of Wisconsin-Madison
+- Applied Mathematics, Engineering, and Physics Program <br>
+- Computer Sciences (double major) <br>
+
+#### 2011-2017   Nanjing Foreign Language School
 
 ### Research Experiences
 **Research Assistant**
-#### 2018 - Present University of Wisconsin-Madison (Department of Neuroscience)                                 
+**2018 - 2020   University of Wisconsin-Madison (Department of Neuroscience)**
 - Primary Investigator: Dr. Ari Rosenberg
 - Processed magnetic resonance imaging and diffusion tensor imaging data.
 - Automated the processing pipeline in Python and BASH scripting.
