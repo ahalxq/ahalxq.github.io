@@ -7,14 +7,11 @@ I am a research assistant working in the Genomics and Bioinformatics Hub just gr
 I am actively seeking PhD positions. Please feel free to email me if you are interested. 
 
 ### Education
-#### University of Wisconsin-Madison
+#### 2017-2020 University of Wisconsin-Madison
 > Applied Mathematics, Engineering, and Physics Program
 
 > Computer Sciences (double major)
-
-> GPA – 3.73/4.0
-
-> Anticipated Graduation: May 2020
+#### 2011-2017 Nanjing Foreign Language School
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
