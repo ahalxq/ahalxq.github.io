@@ -12,6 +12,16 @@ I am actively seeking PhD positions. Please feel free to email me if you are int
 > Computer Sciences (double major)
 #### 2011-2017 Nanjing Foreign Language School
 
+### Research Experiences
+**Research Assistant**
+#### University of Wisconsin-Madison (Department of Neuroscience)                                 2018 - Present
+- Primary Investigator: Dr. Ari Rosenberg
+- Processed magnetic resonance imaging and diffusion tensor imaging data.
+- Automated the processing pipeline in Python and BASH scripting.
+- Used high-throughput computing to calculate cortical connectivity.
+- Developed various metrics to analyze cortical connectivity data.
+- Implemented 3D U-Net structure to generate white matter segmentation automatically
+
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
