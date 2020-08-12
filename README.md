@@ -8,8 +8,7 @@ I am actively seeking PhD positions. Please feel free to email me if you are int
 
 ### Education
 #### 2017-2020 University of Wisconsin-Madison
-> Applied Mathematics, Engineering, and Physics Program
-
+> Applied Mathematics, Engineering, and Physics Program \s\s
 > Computer Sciences (double major)
 #### 2011-2017 Nanjing Foreign Language School
 
