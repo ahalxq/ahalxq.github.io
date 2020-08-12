@@ -14,7 +14,7 @@ I am actively seeking PhD positions. Please feel free to email me if you are int
 
 ### Research Experiences
 **Research Assistant**
-#### University of Wisconsin-Madison (Department of Neuroscience)                                 2018 - Present
+#### 2018 - Present University of Wisconsin-Madison (Department of Neuroscience)                                 
 - Primary Investigator: Dr. Ari Rosenberg
 - Processed magnetic resonance imaging and diffusion tensor imaging data.
 - Automated the processing pipeline in Python and BASH scripting.
