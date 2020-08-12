@@ -14,7 +14,7 @@ I am actively seeking PhD positions. Please feel free to email me if you are int
 #### 2011-2017   Nanjing Foreign Language School
 
 ### Research Experiences
-**Research Assistant**
+**Research Assistant** <br>
 **2018 - 2020   University of Wisconsin-Madison (Department of Neuroscience)**
 - Primary Investigator: Dr. Ari Rosenberg
 - Processed magnetic resonance imaging and diffusion tensor imaging data.
