@@ -9,6 +9,9 @@ I am actively seeking PhD positions. Please feel free to email me if you are int
 ### Education
 #### University of Wisconsin-Madison
 > Applied Mathematics, Engineering, and Physics Program
+> Computer Sciences (double major)
+> GPA – 3.73/4.0
+> Anticipated Graduation: May 2020
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
