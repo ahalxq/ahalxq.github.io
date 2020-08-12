@@ -8,7 +8,7 @@ I am actively seeking PhD positions. Please feel free to email me if you are int
 
 ### Education
 #### University of Wisconsin-Madison
-<tab> Applied Mathematics, Engineering, and Physics Program </tab>
+> Applied Mathematics, Engineering, and Physics Program
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
