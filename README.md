@@ -1,10 +1,14 @@
 ## Welcome to Xiaoqi's Page
 
+
 I am a research assistant working in the Genomics and Bioinformatics Hub just graduated from UW-Madison double majored in Applied Mathematics, Engineering, and Physics (AMEP) and Computer Sciences this summer. 
+
 
 I am actively seeking PhD positions. Please feel free to email me if you are interested. 
 
-### Markdown
+### Education
+#### University of Wisconsin-Madison
+<tab> Applied Mathematics, Engineering, and Physics Program </tab>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
