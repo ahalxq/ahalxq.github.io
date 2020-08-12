@@ -2,3 +2,4 @@ theme: jekyll-theme-minimal
 permalink: /:categories/:year/:month/:title/
 title: Xiaoqi Li
 description: Description of my website
+logo: ./photo.jpeg
